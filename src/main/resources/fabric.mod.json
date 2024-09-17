@@ -8,10 +8,10 @@
 		"ErrorMan"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://ultimateplayer97.github.io/ultimateplayer97/",
+		"sources": "https://github.com/UltimatePlayer97/Fabric-Mod-Tutorial-1.21.x"
 	},
-	"license": "CC0-1.0",
+	"license": "GNU General Public License v3.0",
 	"icon": "assets/tutorialmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
